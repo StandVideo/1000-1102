@@ -19,6 +19,7 @@ src/ps4/patches/1000.bin
 src/ps4/patches/1050.bin
 src/ps4/patches/1100.bin
 src/ps4/patches/1102.bin
+img/BG.jpg
 
 NETWORK:
 *
